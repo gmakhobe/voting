@@ -1,0 +1,1 @@
+insert into registration values (11111, 'Politics', 'admin@mail.com', 'Super', 'admin', 'User')
